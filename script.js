@@ -10,7 +10,7 @@ var angle = 0;
 var speed = 20;
 document.getElementById("svalue").innerHTML = speed;
 document.getElementById("svalue").style = "display: none";
-ctx.strokeStyle = '#FA8072';
+ctx.strokeStyle = 'yellow';
 ctx.lineWidth = radius / 5.5;
 
 function spin() {
