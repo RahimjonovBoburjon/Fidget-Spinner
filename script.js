@@ -7,7 +7,7 @@ var radius = 120;
 
 var dragStart = false;
 var angle = 0;
-var speed = 20;
+var speed = 30;
 document.getElementById("svalue").innerHTML = speed;
 document.getElementById("svalue").style = "display: none";
 ctx.strokeStyle = 'yellow';
